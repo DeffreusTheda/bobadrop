@@ -6,7 +6,7 @@ img {
 body {
     text-align: center;
     font-family: 'Gill Sans';
-    background-image: linear-gradient(to bottom, #3f447567 30%, #c2b19367 80%, #db744967 95%);
+    background-image: linear-gradient(to bottom, #3f447567 30%, #c2b19367 80%, #ea4f0f66 95%);
     color: darkmagenta;
     min-height: 100vh;
 }
